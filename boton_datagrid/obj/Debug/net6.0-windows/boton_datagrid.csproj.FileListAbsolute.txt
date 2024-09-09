@@ -1,0 +1,17 @@
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\bin\Debug\net6.0-windows\boton_datagrid.exe
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\bin\Debug\net6.0-windows\boton_datagrid.deps.json
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\bin\Debug\net6.0-windows\boton_datagrid.runtimeconfig.json
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\bin\Debug\net6.0-windows\boton_datagrid.dll
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\bin\Debug\net6.0-windows\ref\boton_datagrid.dll
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\bin\Debug\net6.0-windows\boton_datagrid.pdb
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\obj\Debug\net6.0-windows\boton_datagrid.csproj.AssemblyReference.cache
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\obj\Debug\net6.0-windows\boton_datagrid.Form1.resources
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\obj\Debug\net6.0-windows\boton_datagrid.csproj.GenerateResource.cache
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\obj\Debug\net6.0-windows\boton_datagrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\obj\Debug\net6.0-windows\boton_datagrid.AssemblyInfoInputs.cache
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\obj\Debug\net6.0-windows\boton_datagrid.AssemblyInfo.cs
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\obj\Debug\net6.0-windows\boton_datagrid.csproj.CoreCompileInputs.cache
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\obj\Debug\net6.0-windows\boton_datagrid.dll
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\obj\Debug\net6.0-windows\ref\boton_datagrid.dll
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\obj\Debug\net6.0-windows\boton_datagrid.pdb
+C:\ARCHIVOS LESLIE\trabajos personales\marzo\Add button in column in DataGridView in c#\boton_datagrid\boton_datagrid\obj\Debug\net6.0-windows\boton_datagrid.genruntimeconfig.cache
